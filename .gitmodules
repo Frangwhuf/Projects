@@ -1,0 +1,3 @@
+[submodule "src/rpi_yardcam"]
+	path = src/rpi_yardcam
+	url = git@github.com:Frangwhuf/rpi_yardcam.git
